@@ -696,7 +696,7 @@ img {
   fill: transparent;
 }
 
-.input-terms-check-div:checked .label-span {
+.input-terms-check:checked .label-span {
   background-color: #404bbf;
   border: none;
   fill: #F4F4FD; 
